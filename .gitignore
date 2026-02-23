@@ -1,0 +1,16 @@
+bin/
+
+Shlush_analysis/results/
+Shlush_analysis/results_single/
+Shlush_analysis/mutation_table/
+Shlush_analysis/copy_number_table/
+Shlush_analysis/plots/
+
+TCGA-COAD_analysis/results_single/
+TCGA-COAD_analysis/mutation_table/
+TCGA-COAD_analysis/copy_number_table/
+TCGA-COAD_analysis/plots/
+TCGA-COAD_analysis/raw_data/
+TCGA-COAD_analysis/bmm_params/
+
+Archive/
